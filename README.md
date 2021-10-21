@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Simple React Currency converter 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project was created using react and ANT Design
 
 ## Available Scripts
 
